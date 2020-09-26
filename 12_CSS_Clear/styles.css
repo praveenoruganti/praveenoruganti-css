@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+.wrap {
+  width: 800px;
+  border: 1px solid;
+}
+.aside4 {
+  width: 200px;
+  height: 200px;
+  background: aqua;
+  float: left;
+}
+.section4 {
+  width: 600px;
+  height: 200px;
+  background: pink;
+  float: left;
+}
+.clear {
+  clear: both;
+}
