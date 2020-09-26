@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="img/praveenoruganti.ico" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>CSS Grid Asymetric Gallery Layout</title>
+        <link rel="stylesheet" href="global.css" />
+        <style>
+        .grid-container {
+		    display: grid;
+		    grid-gap: 20px;
+		    grid-template-columns: repeat(3, 1fr);
+		    grid-template-rows: repeat(3, 160px);
+		}
+
+		.img {
+		    height: 100%;
+		    width: 100%;
+		    object-fit: cover;
+		}
+
+		.gallery-img {
+		    position: relative;
+		    overflow: hidden;
+		}
+
+		.gallery-img:hover .overlay {
+		    transform: translateY(0);
+		}
+
+		.overlay {
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		    right: 0;
+		    bottom: 0;
+		    background-color: rgba(0, 0, 0, 0.5);
+		    display: grid;
+		    color: white;
+		    justify-items: center;
+		    align-items: center;
+		    font-size: 24px;
+		    transform: translateY(-100%);
+		    transition: 0.2s;
+		}
+
+		.featured {
+		    grid-row: 1 / span 2;
+		    grid-column: 1 / span 2;
+		}
+
+		@media (max-width: 786px) {
+		    .grid-container {
+		        grid-template-columns: 1fr 1fr;
+		        grid-template-rows: 300px;
+		        grid-auto-rows: 160;
+		    }
+
+		    .featured {
+		        grid-row: span 1;
+		        grid-column: span 2;
+		    }
+
+		    .overlay {
+		        font-size: 16px;
+		    }
+		}
+
+		@media (max-width: 500px) {
+		    .grid-container {
+		        grid-template-columns: 1fr;
+		    }
+
+		    .grid-container > * {
+		        grid-column: 1 / span 1;
+		    }
+		}
+
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="title">Asymetric Gallery Layout</h1>
+            <div class="grid-container">
+                <div class="featured gallery-img">
+                    <img
+                        class="img"
+                        src="https://images.unsplash.com/photo-1584243795289-d975cefb4b95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+                        alt="Manhattan Picture"
+                    />
+                    <a class="overlay" href="https://praveenorugantitech.blogspot.com" target="_blank">
+                        <p>Manhattan Picture</p>
+                    </a>
+                </div>
+                <div class="gallery-img">
+                    <img
+                        class="img"
+                        src="https://vignette.wikia.nocookie.net/ghostbusters/images/2/2c/Ecto_02.jpg/revision/latest?cb=20110720124909"
+                        alt=""
+                    />
+                    <a class="overlay" href="https://praveenorugantitech.blogspot.com" target="_blank">
+                        <p>Ecto One</p>
+                    </a>
+                </div>
+
+                <div class="gallery-img">
+                    <img
+                        class="img"
+                        src="https://www.nycgo.com/images/articles/9147/turtles_skyline_bkg_v2__large.jpg"
+                        alt=""
+                    />
+                    <a class="overlay" href="https://praveenorugantitech.blogspot.com" target="_blank">
+                        <p>Ninja Turtles</p>
+                    </a>
+                </div>
+
+                <div class="gallery-img">
+                    <img
+                        class="square-1 img"
+                        src="https://cdn.getyourguide.com/img/tour_img-1739965-148.jpg"
+                        alt=""
+                    />
+                    <a class="overlay" href="https://praveenorugantitech.blogspot.com" target="_blank">
+                        <p>Empire State Building</p>
+                    </a>
+                </div>
+                <div class="gallery-img">
+                    <img
+                        class="square-1 img"
+                        src="https://legends-cloudinary.corebine.com/legends-production/image/upload/c_fit,dpr_3.0,f_webp,g_center,q_auto,w_767/v1/owo-prod/One_World_Observatory-_An_Experience_Above_HomePage_72dpi"
+                        alt=""
+                    />
+                    <a class="overlay" href="https://praveenorugantitech.blogspot.com" target="_blank">
+                        <p>One World Trade</p>
+                    </a>
+                </div>
+                <div class="gallery-img">
+                    <img
+                        class="square-1 img"
+                        src="https://images.unsplash.com/photo-1579434402425-efc04578672a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2125&q=80"
+                        alt=""
+                    />
+                    <a class="overlay" href="https://praveenorugantitech.blogspot.com" target="_blank">
+                        <p>Williamsburg</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

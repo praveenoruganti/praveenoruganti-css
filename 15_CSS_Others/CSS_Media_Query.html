@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/praveenoruganti.ico" />
+    <title>CSS Media Query</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100%;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: #222;           
+        }
+
+        h2 {
+            color: white;
+            font-size: 3rem;
+            font-weight: bold;
+            margin-bottom: 50px;
+
+        }
+
+        .box {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+        }
+
+        .box .details {
+            width: 45%;
+        }
+
+        .box .img {
+            width: 45%;
+        }
+
+        .box .img img {
+            width: 100%;
+            height: 80%;
+        }
+
+        .box .details p {
+            color: white;
+            font-size: 1.3rem;
+            text-align: justify;
+        }
+
+        @media screen and (max-width: 900px) {
+
+            h2 {
+                color: #2ecc71;
+            }
+        }
+
+        @media screen and (max-width: 700px) {
+
+            h2 {
+                color: #3498db;
+                font-size: 1.7rem;
+            }
+
+            .box {
+                flex-direction: column;
+                margin: 0 50px;
+            }
+
+            .box .details {
+                width: 100%;
+            }
+
+            .box .img {
+                width: 100%;
+            }
+
+            .box .details p{
+                color: #1abc9c;
+                padding-bottom: 25px;
+            }
+
+        }
+    </style>
+</head>
+
+<body>
+    <h2>This is Praveen Oruganti</h2>
+    <div class="box">
+        <div class="details">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</p>
+        </div>
+        <div class="img">
+            <img src="img/praveenoruganti.jpg" alt="praveenoruganti" />
+        </div>
+    </div>
+</body>
+
+</html>

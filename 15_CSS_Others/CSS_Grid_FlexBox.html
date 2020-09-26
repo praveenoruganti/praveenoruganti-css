@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="img/praveenoruganti.ico" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>CSS Course</title>
+	<style>
+		* {
+			box-sizing: border-box;
+			height: 100%;
+			overflow: hidden;
+		}
+
+		body {
+			font-family: sans-serif;
+			margin: 0;
+			display: grid;
+			grid-template-columns: 30% auto;
+			grid-template-rows: 60px auto 60px;
+			grid-template-areas: "hd hd"
+				"sidebar main"
+				"footer footer";
+
+		}
+
+		header,
+		aside,
+		main,
+		footer {
+			padding: 16px;
+			text-align: center;
+		}
+
+		header {
+			background: #521751;
+			grid-area: hd;
+		}
+
+		aside {
+			background: #fa923f;
+			grid-area: sidebar;
+		}
+
+		main {
+			grid-area: main;
+		}
+
+		footer {
+			background: black;
+			grid-area: footer;
+		}
+
+		.navigation-list {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+			height: 100%;
+		}
+
+		.navigation-item {
+			margin: 0 10px;
+		}
+
+		.navigation-item a {
+			text-decoration: none;
+			color: white;
+		}
+
+		.navigation-item a:hover,
+		.navigation-item a:active {
+			color: #fa923f;
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<ul class="navigation-list">
+			<li class="navigation-item"><a href="#">Posts</a></li>
+			<li class="navigation-item"><a href="#">Products</a></li>
+			<li class="navigation-item"><a href="#">About Us</a></li>
+		</ul>
+	</header>
+	<aside>
+		<p>My super awesome sidebar</p>
+	</aside>
+	<main>
+		<h1>CSS Grid or Flexbox
+		</h1>
+		<p>When should you use which?</p>
+	</main>
+	<footer>
+		<ul class="navigation-list">
+			<li class="navigation-item"><a href="#">Terms of Use</a></li>
+			<li class="navigation-item"><a href="#">Support</a></li>
+		</ul>
+	</footer>
+</body>
+
+</html>

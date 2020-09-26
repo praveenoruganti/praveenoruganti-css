@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="img/praveenoruganti.ico" />
+    <title>CSS Grid Tiles</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        box-sizing: border-box;
+        font-family: "Roboto", sans-serif;
+      }
+
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+      }
+      header {
+        background-color: #000000;
+        color: #ffffff;
+      }
+      .header-content {
+        padding: 25px;
+        max-width: 1170px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        max-width: 1170px;
+      }
+
+      .cards-container {
+        background-color: #f1f1f1;
+        font-family: "Roboto", sans-serif;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+        gap: 41px;
+        max-width: 1170px;
+        margin: 0 auto;
+        padding: 45px 25px;
+      }
+      .card {
+        background-color: #ffffff;
+        padding: 20px;
+        height: 330px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="header-content">
+        <div class="header-left">
+          Lorem ipsum dolor sit amet consectetur
+        </div>
+        <div class="header-right">
+          Lorem ipsum dolor sit amet consectetur
+        </div>
+      </div>
+    </header>
+    <div class="cards-container">
+      <div class="card">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat unde
+          incidunt consectetur temporibus quasi. Maiores reprehenderit veniam
+          quas, dolores odio inventore labore quos nam aliquam, asperiores
+          molestias explicabo esse quo?
+        </p>
+      </div>
+      <div class="card">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat unde
+          incidunt consectetur temporibus quasi. Maiores reprehenderit veniam
+          quas, dolores odio inventore labore quos nam aliquam, asperiores
+          molestias explicabo esse quo?
+        </p>
+      </div>
+      <div class="card">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat unde
+          incidunt consectetur temporibus quasi. Maiores reprehenderit veniam
+          quas, dolores odio inventore labore quos nam aliquam, asperiores
+          molestias explicabo esse quo?
+        </p>
+      </div>
+      <div class="card">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat unde
+          incidunt consectetur temporibus quasi. Maiores reprehenderit veniam
+          quas, dolores odio inventore labore quos nam aliquam, asperiores
+          molestias explicabo esse quo?
+        </p>
+      </div>
+      <div class="card">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat unde
+          incidunt consectetur temporibus quasi. Maiores reprehenderit veniam
+          quas, dolores odio inventore labore quos nam aliquam, asperiores
+          molestias explicabo esse quo?
+        </p>
+      </div>
+      <div class="card">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat unde
+          incidunt consectetur temporibus quasi. Maiores reprehenderit veniam
+          quas, dolores odio inventore labore quos nam aliquam, asperiores
+          molestias explicabo esse quo?
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

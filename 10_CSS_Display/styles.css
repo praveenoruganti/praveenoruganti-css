@@ -1,0 +1,53 @@
+
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+div {
+  margin: 20px;
+}
+
+h2 {
+  background: lightsalmon;
+  padding: 5px;
+  margin: 5px;
+  display: inline;
+}
+
+span {
+  display: block;
+  background: orange;
+}
+
+a {
+  display: block;
+  background: limegreen;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+  width: 100px;
+}
+
+h1 {
+  background-color: brown;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  display: none;
+}
+
+.parent {
+  background: lightgreen;
+  padding: 15px;
+  text-align: center;
+}
+
+.child {
+  background: black;
+  color: whitesmoke;
+  width: 200px;
+  padding: 15px;
+  display: inline-block;
+  box-shadow: 0 0 10px black;
+}

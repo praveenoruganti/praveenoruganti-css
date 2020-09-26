@@ -1,0 +1,51 @@
+/* Universal selector */
+* {
+  background-color: limegreen;
+}
+
+/* Element selector */
+body {
+  margin: 0;
+}
+
+/* Grouping selector */
+h1,
+h4 {
+  color: blue;
+}
+
+/* Id selector */
+#h2 {
+  color: brown;
+}
+
+/* Class selector */
+.h3 {
+  color: khaki;
+}
+
+/* Descendent selector */
+div h6 {
+  color: grey;
+}
+
+/* Child selector */
+div > p {
+  color: yellow;
+  font-weight: bold;
+}
+
+/* Pseudo class selector */
+a:hover {
+  color: red;  
+}
+
+/* Pseudo element selector */
+p::first-letter {
+  color: black;
+}
+
+/* Attribute selector */
+a[target="_blank"] {
+  text-transform: uppercase;
+}

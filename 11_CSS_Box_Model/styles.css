@@ -1,0 +1,15 @@
+﻿
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 50px;
+  border: 12px solid orangered;
+  padding: 50px;
+  width: 300px;
+  height: 200px;
+  /* box-sizing: border-box; */
+  background-color: aquamarine;
+}

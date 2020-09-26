@@ -1,0 +1,59 @@
+h1 {
+  opacity: 0.2;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-color {
+  background-color: teal;
+}
+
+.bg-image {
+  padding: 15px;
+  width: 500px;
+  box-shadow: 0 0 10px black;
+  background-image: url("img/image2.jpg");
+}
+
+.bg-repeat {
+  width: 500px;
+  height: 300px;
+  box-shadow: 0 0 10px black;
+  /* background-color: lightsalmon;
+  background-image: url("img/image4.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-attachment: scroll; */
+  background: lightsalmon url("img/image4.jpg") no-repeat scroll top right;
+}
+
+.bg-position {
+  width: 500px;
+  height: 300px;
+  box-shadow: 0 0 10px black;
+  background: lightsalmon url("img/image4.jpg") no-repeat scroll bottom right;
+}
+
+.bg-attachment {
+  height: 250px;
+  box-shadow: 0 0 10px black;
+  background: white url("img/image2.jpg") no-repeat fixed center;
+}
+
+.bg-size {
+  box-shadow: 0 0 10px black;
+  width: 500px;
+  height: 300px;
+  background-image: url("img/image2.jpg");
+  background-size: cover;
+}
+
+.gradient {
+  box-shadow: 0 0 10px black;
+  width: 500px;
+  height: 300px;
+  background: linear-gradient(45deg, black, darkred);
+}

@@ -1,0 +1,110 @@
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 10px;
+}
+
+div {
+  background: lightgreen;
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+  width: 800px;
+  padding: 10px;
+}
+
+.border-all-solid {
+  border: 15px solid black;
+}
+
+.border-all-dotted {
+  border: 15px dotted black;
+}
+
+.border-all-dashed {
+  border: 15px dashed black;
+}
+
+.border-all-double {
+  border: 15px double black;
+}
+
+.border-left-double {
+  border-left: 15px double black;
+}
+
+.border-right-double {
+  border-right: 15px double black;
+}
+
+.border-top-double {
+  border-top: 15px double black;
+}
+
+.border-bottom-double {
+  border-bottom: 15px double black;
+}
+
+.border-rounded-all-solid {
+  border: 15px solid black;
+  border-radius: 50px;
+}
+
+.border-rounded-two-solid {
+  border: 15px solid black;
+  border-radius: 60px 0 60px 0;
+}
+
+.circle {
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 0 10px black;
+  border-radius: 50%;
+  background: lightgreen;
+  padding: 10px;
+}
+
+.border-circle {
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 0 10px black;
+  border-radius: 50%;
+  background: lightgreen;
+  border: 25px solid black;
+  padding: 10px;
+}
+
+.border-frame {
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 0 10px black;
+  border-top: 25px solid black;
+  border-bottom: 25px solid black;
+  border-left: 35px solid limegreen;
+  border-right: 35px solid limegreen;
+  padding: 10px;
+}
+
+.border-ring {
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 0 10px black;
+  border-radius: 50%;
+  border-top: 25px solid black;
+  border-bottom: 25px solid black;
+  border-left: 35px solid limegreen;
+  border-right: 35px solid limegreen;
+  background: linear-gradient(45deg, green, yellow);
+  padding: 10px;
+}
+
+.custom-border {
+  height: 315px;
+  width: 560px;
+  box-shadow: 0 0 10px black;
+  border-top: 25px solid black;
+  border-bottom: 25px solid black;
+  border-left: 35px solid limegreen;
+  border-right: 35px solid limegreen;  
+}

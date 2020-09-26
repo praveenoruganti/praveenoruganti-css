@@ -1,0 +1,96 @@
+.flexContainer1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexItem {
+  width: 10%;
+  margin: 10px;
+  padding: 10px;
+  border: 20px solid darkred;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.flexContainer2 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.flexContainer3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexContainer4 {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.flexContainer5 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.flexContainer6 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flexContainer7 {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.flexContainer8 {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.flexContainer9 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flexContainer10 {
+  display: flex;
+  justify-content: center;
+}
+
+.flexContainer11 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flexContainer12 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.one {
+  order: 2;
+}
+
+.two {
+  order: 3;
+}
+
+.three {
+  order: 4;
+}
+
+.four {
+  order: 1;
+}
+
+.five {
+  flex-grow: 1;
+}
+
+.six {
+  flex-grow: 2;
+}
+
+.eight {
+  flex-grow: 4;
+}

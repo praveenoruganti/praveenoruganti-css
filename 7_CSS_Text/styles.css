@@ -1,0 +1,21 @@
+
+
+p {
+  color: darkred;
+}
+
+h1 {
+  text-align: center;
+}
+
+.b {
+  direction: rtl;
+  text-transform: uppercase;
+  color: blue;
+  text-indent: 1vh;
+  line-height: 150%;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  white-space: pre;
+  text-shadow: 1px 1px red;
+}

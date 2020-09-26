@@ -1,0 +1,14 @@
+
+p {
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-stretch: condensed;
+}
+
+
+p.b {
+  font: italic small-caps bold 25px Arial, Helvetica, sans-serif;
+}

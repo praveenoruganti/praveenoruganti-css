@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" href="img/praveenoruganti.ico" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>CSS Grid Asymetic Dashboard</title>
+        <link rel="stylesheet" href="global.css" />
+        <style>
+        .dashboard {
+		    display: grid;
+		    grid-template-columns: repeat(6, 1fr);
+		    grid-gap: 20px;
+		}
+
+		.item {
+		    border: 1px solid;
+		    border-radius: 3px;
+		    box-shadow: 1px 1px 4px #ccc;
+		    border: 1px solid #ccc;
+		    height: 100px;
+		    display: grid;
+		    align-items: center;
+		    justify-items: center;
+		}
+
+		.item:hover {
+		    box-shadow: 4px 4px 4px #ccc;
+		    cursor: pointer;
+		}
+
+		.main {
+		    grid-column: span 3;
+		}
+
+		.secondary {
+		    grid-column: span 2;
+		}
+
+		@media (max-width: 786px) {
+		    .dashboard {
+		        grid-template-columns: 1fr;
+		    }
+
+		    .dashboard > * {
+		        grid-column: span 1;
+		    }
+		}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="title">Asymetric Dashboard</h1>
+            <br />
+            <div class="dashboard">
+                <div class="main grid-item red">Section 1</div>
+                <div class="main grid-item orange">Section 2</div>
+                <div class="secondary grid-item green">Section 3</div>
+                <div class="secondary grid-item blue">Section 4</div>
+                <div class="secondary grid-item red">Section 5</div>
+            </div>
+        </div>
+    </body>
+    <script src="app.js"></script>
+</html>
