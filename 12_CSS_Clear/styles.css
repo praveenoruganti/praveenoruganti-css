@@ -8,13 +8,13 @@
 .aside4 {
   width: 200px;
   height: 200px;
-  background: aqua;
+  background: linear-gradient(45deg,black,blue);
   float: left;
 }
 .section4 {
   width: 600px;
   height: 200px;
-  background: pink;
+  background: linear-gradient(45deg,black,limegreen);
   float: left;
 }
 .clear {
