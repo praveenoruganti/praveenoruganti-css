@@ -1,6 +1,36 @@
 ### All About CSS
 
+
+
 - [CSS_Referencing](https://praveenoruganti.github.io/praveenoruganti-css/1_CSS_Referencing/)
+
+**External CSS with <link>**
+
+ ```HTML
+  <link rel="stylesheet" href="styles.css" />
+ ```
+ ```CSS
+  h1{
+    color:red;
+   }
+ ```
+
+**Inline CSS and it has highest priority and will override external and internal styles and browser defaults**
+
+```HTML
+  <h2 style="color:green">Second Heading</h2>
+```
+
+**Internal CSS  is better than inline CSS but its not a best practice to use.**
+
+```HTML
+ <style>
+    h3 {
+        color: blue;
+    }
+ </style>
+```
+
 - [CSS_Selectors](https://praveenoruganti.github.io/praveenoruganti-css/2_CSS_Selectors/)
 - [CSS_Colors](https://praveenoruganti.github.io/praveenoruganti-css/3_CSS_Colors/)
 - [CSS_Background](https://praveenoruganti.github.io/praveenoruganti-css/4_CSS_Background/)
