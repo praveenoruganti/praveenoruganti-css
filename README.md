@@ -22,4 +22,4 @@
 - [CSS_Transitions](https://praveenoruganti.github.io/praveenoruganti-css/18_CSS_Transitions/)
 - [CSS_Animations](https://praveenoruganti.github.io/praveenoruganti-css/19_CSS_Animations/)
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+### [Contribute for a Cause](http://bit.ly/2WryDT8)
