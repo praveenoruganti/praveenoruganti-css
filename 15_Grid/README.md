@@ -44,7 +44,7 @@ and column grid lines 2 and 3.
 
 - **display**
 Defines the element as a grid container and establishes a new grid formatting context for its contents
-**display: grid | inline-grid;**
+**display: grid (or) inline-grid;**
 
 - **grid-template-columns and grid-template-rows**
 Defines the columns and rows of the grid with a space-separated list of values.
@@ -68,7 +68,7 @@ visualization of the structure of the grid.
 A shorthand for setting grid-template-rows, grid-template-columns, and grid-template-areas
 in a single declaration.
 
-**grid-template: none | <grid-template-rows> / <grid-template-columns>;**<br/>
+**grid-template: none (or) <grid-template-rows> / <grid-template-columns>;**<br/>
 
 **grid-template:**<br/>
     **[row1-start] "header header header" 25px [row1-end]**<br/>
@@ -99,13 +99,13 @@ A shorthand for row-gap and column-gap<br/>
 Aligns grid items along the inline (row) axis (as opposed to align-items which aligns
 along the block (column) axis). This value applies to all grid items inside the container.
 
-**justify-items: start | end | center | stretch;**
+**justify-items: start (or) end (or) center (or) stretch;**
 
 - **align-items**
 Aligns grid items along the block (column) axis (as opposed to justify-items which aligns
 along the inline (row) axis). This value applies to all grid items inside the container.
 
-**align-items: start | end | center | stretch;**
+**align-items: start (or) end (or) center (or) stretch;**
 
 - **place-items**
 place-items sets both the align-items and justify-items properties in a single declaration.
@@ -121,7 +121,7 @@ Values:
  This property aligns the grid along the inline (row) axis (as opposed to align-content
  which aligns the grid along the block (column) axis).
 
- **justify-content: start | end | center | stretch | space-around | space-between | space-evenly;**
+ **justify-content: start (or) end (or) center (or) stretch (or) space-around (or) space-between (or) space-evenly;**
 
 - **align-content**
 Sometimes the total size of your grid might be less than the size of its grid container.
@@ -130,7 +130,7 @@ In this case you can set the alignment of the grid within the grid container.
 This property aligns the grid along the block (column) axis
 (as opposed to justify-content which aligns the grid along the inline (row) axis).
 
-**align-content: start | end | center | stretch | space-around | space-between | space-evenly;**
+**align-content: start (or) end (or) center (or) stretch (or) space-around (or) space-between (or) space-evenly;**
 
 - place-content
 place-content sets both the align-content and justify-content properties in a single declaration.
@@ -152,7 +152,7 @@ If you have grid items that you don�t explicitly place on the grid, the auto-p
 algorithm kicks in to automatically place the items. This property controls how the
 auto-placement algorithm works.
 
-**grid-auto-flow: row | column | row dense | column dense;**
+**grid-auto-flow: row (or) column (or) row dense (or) column dense;**
 
 - **grid**
 A shorthand for setting all of the following properties in a single declaration:
@@ -180,24 +180,24 @@ Gives an item a name so that it can be referenced by a template created with the
  property. Alternatively, this property can be used as an even shorter shorthand for grid-row-start
  + grid-column-start + grid-row-end + grid-column-end.
 
- **grid-area: <name> | <row-start> / <column-start> / <row-end> / <column-end>;**
+ **grid-area: <name> (or) <row-start> / <column-start> / <row-end> / <column-end>;**
 
 - **justify-self**
 Aligns a grid item inside a cell along the inline (row) axis (as opposed to align-self
 which aligns along the block (column) axis). This value applies to a grid item inside a single cell.
 
-**justify-self: start | end | center | stretch;**
+**justify-self: start (or) end (or) center (or) stretch;**
 
 - **align-self**
 Aligns a grid item inside a cell along the block (column) axis (as opposed to justify-self
 which aligns along the inline (row) axis). This value applies to the content inside a single grid item.
 
-**align-self: start | end | center | stretch;**
+**align-self: start (or) end (or) center (or) stretch;**
 
 - **place-self**
-place-self sets both the align-self and justify-self properties in a single declaration.
-**place-self: center;**
-**place-self: center stretch;**
+place-self sets both the align-self and justify-self properties in a single declaration.<br/>
+**place-self: center;**<br/>
+**place-self: center stretch;**<br/>
 
 
 **HTML**

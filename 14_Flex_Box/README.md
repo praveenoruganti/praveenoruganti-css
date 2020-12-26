@@ -11,22 +11,16 @@ In order to get Flex Box to work, we need to establish parent-child relationship
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-css/master/14_Flex_Box/images/Flex_Box.PNG)
 
 
-The Flex Box Layout (Flexible Box) module aims at providing a more efficient way to layout,
-align and distribute space among items in a container, even when their size is unknown
+The Flex Box Layout (Flexible Box) module aims at providing a more efficient way to layout,align and distribute space among items in a container, even when their size is unknown
 and/or dynamic (thus the word "flex").
 
-The main idea behind the flex layout is to give the container the ability to alter its items
-width/height (and order) to best fill the available space (mostly to accommodate to all kind
-of display devices and screen sizes). A flex container expands items to fill available
-free space or shrinks them to prevent overflow.
+The main idea behind the flex layout is to give the container the ability to alter its items width/height (and order) to best fill the available space (mostly to accommodate to all kind
+of display devices and screen sizes). A flex container expands items to fill available free space or shrinks them to prevent overflow.
 
-Most importantly, the flex Box layout is direction-agnostic as opposed to the regular layouts
-(block which is vertically-based and inline which is horizontally-based).While those work well
-for pages, they lack flexibility (no pun intended) to support large or complex applications
-(especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
+Most importantly, the flex Box layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based).While those work well
+for pages, they lack flexibility (no pun intended) to support large or complex applications (especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
 
-Note: Flex Box layout is most appropriate to the components of an application, and small-scale
-layouts, while the Grid layout is intended for larger scale layouts.
+Note: Flex Box layout is most appropriate to the components of an application, and small-scale layouts, while the Grid layout is intended for larger scale layouts.
 
 If regular layout is based on both block and inline flow directions,the flex layout is based on flex-flow directions.
 
@@ -39,19 +33,18 @@ It enables a flex context for all its direct children.<br/>
 Note that CSS columns have no effect on a flex container.
 
 - **flex-direction**
-This establishes the main-axis, thus defining the direction flex items are placed in the
-flex container. Flex Box is (aside from optional wrapping) a single-direction layout concept.
+This establishes the main-axis, thus defining the direction flex items are placed in the flex container.<br/>
+Flex Box is (aside from optional wrapping) a single-direction layout concept. <br/>
 Think of flex items as primarily laying out either in horizontal rows or vertical columns.<br/>
-**flex-direction: row | row-reverse | column | column-reverse;**<br/>
+**flex-direction: row (or) row-reverse (or) column (or) column-reverse;**<br/>
 row (default): left to right in ltr; right to left in rtl<br/>
 row-reverse: right to left in ltr; left to right in rtl<br/>
 column: same as row but top to bottom<br/>
 column-reverse: same as row-reverse but bottom to top
 
 - **flex-wrap**
-By default, flex items will all try to fit onto one line. You can change that and allow
-the items to wrap as needed with this property.<br/>
-**flex-wrap: nowrap | wrap | wrap-reverse;**<br/>
+By default, flex items will all try to fit onto one line. You can change that and allow the items to wrap as needed with this property.<br/>
+**flex-wrap: nowrap (or) wrap (or) wrap-reverse;**<br/>
 nowrap (default): all flex items will be on one line<br/>
 wrap: flex items will wrap onto multiple lines, from top to bottom.<br/>
 wrap-reverse: flex items will wrap onto multiple lines from bottom to top.
@@ -67,32 +60,27 @@ leftover when either all the flex items on a line are inflexible, or are flexibl
 but have reached their maximum size. It also exerts some control over the alignment
 of items when they overflow the line.
 
-**justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly| start | end | left | right ... + safe | unsafe;**
+**justify-content: flex-start (or) flex-end (or) center (or) space-between (or) space-around (or) space-evenly (or) start (or) end (or) left (or) right ... + safe (or) unsafe;**
 
 a) **flex-start (default)**: items are packed toward the start of the flex-direction.<br/>
 b)** flex-end**: items are packed toward the end of the flex-direction.<br/>
 c) **start**: items are packed toward the start of the writing-mode direction.<br/>
 d) **end**: items are packed toward the end of the writing-mode direction.<br/>
-e) **left**: items are packed toward left edge of the container, unless that doesn't make sense
-with the flex-direction, then it behaves like start.<br/>
-f) **right**: items are packed toward right edge of the container, unless that doesn't make sense
-with the flex-direction, then it behaves like start.<br/>
+e) **left**: items are packed toward left edge of the container, unless that doesn't make sense with the flex-direction, then it behaves like start.<br/>
+f) **right**: items are packed toward right edge of the container, unless that doesn't make sense with the flex-direction, then it behaves like start.<br/>
 g) **center**: items are centered along the line<br/>
-h) **space-between**: items are evenly distributed in the line; first item is on the start line
-, last item on the end line<br/>
+h) **space-between**: items are evenly distributed in the line; first item is on the start line , last item on the end line<br/>
 i) **space-around**: items are evenly distributed in the line with equal space around them.
-Note that visually the spaces aren't equal, since all the items have equal space on both sides.
-The first item will have one unit of space against the container edge, but two units.
-of space between the next item because that next item has its own spacing that applies.<br/>
-j) **space-evenly**: items are distributed so that the spacing between any two items
- (and the space to the edges) is equal.
+  Note that visually the spaces aren't equal, since all the items have equal space on both sides.<br/>
+  The first item will have one unit of space against the container edge, but two units of space between the next item because that next item has its own spacing that applies.<br/>
+j) **space-evenly**: items are distributed so that the spacing between any two items(and the space to the edges) is equal.
 
 - **align-items**
 This defines the default behavior for how flex items are laid out along the cross axis
 on the current line. Think of it as the justify-content version for the cross-axis
 (perpendicular to the main-axis).
 
-**align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;**
+**align-items: stretch (or) flex-start (or) flex-end (or) center (or) baseline (or) first baseline (or) last baseline (or) start (or) end (or) self-start (or) self-end + ... safe (or) unsafe;**
 
 a) **stretch (default)**: stretch to fill the container (still respect min-width/max-width)<br/>
 b) **flex-start / start / self-start**: items are placed at the start of the cross axis. The difference between these is subtle, and is about respecting the flex-direction rules or the writing-mode rules.<br/>
@@ -105,7 +93,7 @@ This aligns a flex container's lines within when there is extra space in the cro
 similar to how justify-content aligns individual items within the main-axis.
 **Note**: this property has no effect when there is only one line of flex items.
 
-**align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;**
+**align-content: flex-start (or) flex-end (or) center (or) space-between (or) space-around (or) space-evenly (or) stretch (or) start (or) end (or) baseline (or) first baseline (or) last baseline + ... safe (or) unsafe;**
 
 a) **flex-start / start**: items packed to the start of the container. The (more supported)
 flex-start honors the flex-direction while start honors the writing-mode direction.<br/>
@@ -153,7 +141,7 @@ until deprecated). The content keyword means "size it based on the item's conten
 this keyword isn't well supported yet, so it's hard to test and harder to know what
 its brethren max-content, min-content, and fit-content do.
 
-**flex-basis:  | auto; ( default is auto)**<br/>
+**flex-basis:  <width> (or) auto; ( default is auto)**<br/>
 If set to 0, the extra space around content isn't factored in. If set to auto,
 the extra space is distributed based on its flex-grow value.
 
@@ -162,7 +150,7 @@ This is the shorthand for flex-grow, flex-shrink and flex-basis combined.
 The second and third parameters (flex-shrink and flex-basis) are optional.
 The default is 0 1 auto, but if you set it with a single number value, it's like 1 0.
 
-**flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]**
+**flex: none (or) [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]**
 
 It is recommended that you use this shorthand property rather than set the individual properties.
 The shorthand sets the other values intelligently.
@@ -171,7 +159,7 @@ The shorthand sets the other values intelligently.
 This allows the default alignment (or the one specified by align-items) to be overridden
 for individual flex items.
 
-**align-self: auto | flex-start | flex-end | center | baseline | stretch;**<br/>
+**align-self: auto (or) flex-start (or) flex-end (or) center (or) baseline (or) stretch;**<br/>
 Note that float, clear and vertical-align have no effect on a flex item
 
 **HTML**
