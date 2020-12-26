@@ -50,8 +50,8 @@ Defines the element as a grid container and establishes a new grid formatting co
 Defines the columns and rows of the grid with a space-separated list of values.
 The values represent the track size, and the space between them represents the grid line.
 
-**grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];**
-**grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];**
+**grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];**<br/>
+**grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];**<br/>
 
 - **grid-template-areas**
 Defines a grid template by referencing the names of the grid areas which are specified
@@ -68,31 +68,31 @@ visualization of the structure of the grid.
 A shorthand for setting grid-template-rows, grid-template-columns, and grid-template-areas
 in a single declaration.
 
-**grid-template: none | <grid-template-rows> / <grid-template-columns>;**
+**grid-template: none | <grid-template-rows> / <grid-template-columns>;**<br/>
 
-**grid-template:**
-    **[row1-start] "header header header" 25px [row1-end]**
-    **[row2-start] "footer footer footer" 25px [row2-end]**
+**grid-template:**<br/>
+    **[row1-start] "header header header" 25px [row1-end]**<br/>
+    **[row2-start] "footer footer footer" 25px [row2-end]**<br/>
     **/ auto 50px auto;**
 
 - **column-gap, row-gap, grid-column-gap and grid-row-gap**
 Specifies the size of the grid lines. You can think of it like setting the width of
 the gutters between the columns/rows.
 
-/* standard */
-**column-gap: <line-size>;**
-**row-gap: <line-size>;**
+/* standard */<br/>
+**column-gap: <line-size>;**<br/>
+**row-gap: <line-size>;**<br/>
 
-/* old */
-**grid-column-gap: <line-size>;**
-**grid-row-gap: <line-size>;**
+/* old */<br/>
+**grid-column-gap: <line-size>;**<br/>
+**grid-row-gap: <line-size>;**<br/>
 
-- **gap and grid-gap**
-A shorthand for row-gap and column-gap
-/* standard */
-**gap: <grid-row-gap> <grid-column-gap>;**
+- **gap and grid-gap**<br/>
+A shorthand for row-gap and column-gap<br/>
+/* standard */<br/>
+**gap: <grid-row-gap> <grid-column-gap>;**<br/>
 
-/* old */
+/* old */<br/>
 **grid-gap: <grid-row-gap> <grid-column-gap>;**
 
 - **justify-items**
@@ -144,8 +144,8 @@ Specifies the size of any auto-generated grid tracks (aka implicit grid tracks).
 Implicit tracks get created when there are more grid items than cells in the grid or
 when a grid item is placed outside of the explicit grid.
 
-**grid-auto-columns: <track-size> ...;
-grid-auto-rows: <track-size> ...;**
+**grid-auto-columns: <track-size> ...;**<br/>
+**grid-auto-rows: <track-size> ...;**<br/>
 
 - **grid-auto-flow**
 If you have grid items that you don�t explicitly place on the grid, the auto-placement
@@ -160,9 +160,9 @@ grid-template-rows, grid-template-columns, grid-template-areas, grid-auto-rows, 
 and grid-auto-flow (Note: You can only specify the explicit or the implicit grid properties
 in a single grid declaration).
 
- **grid**: **[row1-start] "header header header" 1fr [row1-end]**
-        **[row2-start] "footer footer footer" 25px [row2-end]**
-        **/ auto 50px auto;**
+ **grid**: **[row1-start] "header header header" 1fr [row1-end]**<br/>
+        **[row2-start] "footer footer footer" 25px [row2-end]**<br/>
+        **/ auto 50px auto;**<br/>
 
 
 **Properties for the Children(Grid Items)**

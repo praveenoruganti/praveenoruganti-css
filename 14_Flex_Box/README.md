@@ -34,31 +34,31 @@ If regular layout is based on both block and inline flow directions,the flex lay
 
 - **display**
 This defines a flex container; inline or block depending on the given value.
-It enables a flex context for all its direct children.
-**display: flex; or display: inline-flex;**
+It enables a flex context for all its direct children.<br/>
+**display: flex; or display: inline-flex;**<br/>
 Note that CSS columns have no effect on a flex container.
 
 - **flex-direction**
 This establishes the main-axis, thus defining the direction flex items are placed in the
 flex container. Flex Box is (aside from optional wrapping) a single-direction layout concept.
-Think of flex items as primarily laying out either in horizontal rows or vertical columns.
-**flex-direction: row | row-reverse | column | column-reverse;**
-row (default): left to right in ltr; right to left in rtl
-row-reverse: right to left in ltr; left to right in rtl
-column: same as row but top to bottom
+Think of flex items as primarily laying out either in horizontal rows or vertical columns.<br/>
+**flex-direction: row | row-reverse | column | column-reverse;**<br/>
+row (default): left to right in ltr; right to left in rtl<br/>
+row-reverse: right to left in ltr; left to right in rtl<br/>
+column: same as row but top to bottom<br/>
 column-reverse: same as row-reverse but bottom to top
 
 - **flex-wrap**
 By default, flex items will all try to fit onto one line. You can change that and allow
-the items to wrap as needed with this property.
-**flex-wrap: nowrap | wrap | wrap-reverse;**
-nowrap (default): all flex items will be on one line
-wrap: flex items will wrap onto multiple lines, from top to bottom.
+the items to wrap as needed with this property.<br/>
+**flex-wrap: nowrap | wrap | wrap-reverse;**<br/>
+nowrap (default): all flex items will be on one line<br/>
+wrap: flex items will wrap onto multiple lines, from top to bottom.<br/>
 wrap-reverse: flex items will wrap onto multiple lines from bottom to top.
 
 - **flex-flow**
 This is a shorthand for the flex-direction and flex-wrap properties, which together
-define the flex container's main and cross axes. The default value is row nowrap.
+define the flex container's main and cross axes. The default value is row nowrap.<br/>
 **flex-flow: column wrap;**
 
 - **justify-content**
@@ -136,13 +136,13 @@ distributed equally to all children. If one of the children has a value of 2,
 the remaining space would take up twice as much space as the others
 (or it will try to, at least).
 
-**flex-grow: 4; (default is 0)**
+**flex-grow: 4; (default is 0)**<br/>
 Negative numbers are invalid.
 
 - **flex-shrink**
 This defines the ability for a flex item to shrink if necessary.
 
-**flex-shrink: 3; (default is 1)**
+**flex-shrink: 3; (default is 1)**<br/>
 Negative numbers are invalid.
 
 - **flex-basis**
@@ -153,7 +153,7 @@ until deprecated). The content keyword means "size it based on the item's conten
 this keyword isn't well supported yet, so it's hard to test and harder to know what
 its brethren max-content, min-content, and fit-content do.
 
-**flex-basis:  | auto; ( default is auto)**
+**flex-basis:  | auto; ( default is auto)**<br/>
 If set to 0, the extra space around content isn't factored in. If set to auto,
 the extra space is distributed based on its flex-grow value.
 
@@ -171,7 +171,7 @@ The shorthand sets the other values intelligently.
 This allows the default alignment (or the one specified by align-items) to be overridden
 for individual flex items.
 
-**align-self: auto | flex-start | flex-end | center | baseline | stretch;**
+**align-self: auto | flex-start | flex-end | center | baseline | stretch;**<br/>
 Note that float, clear and vertical-align have no effect on a flex item
 
 **HTML**
