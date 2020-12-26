@@ -8,9 +8,8 @@ Here with the CSS Display Properties.
 - display: inline-block
 - display: flex
 
-**inline Elements** **<a>, <span>, <input> , <img>**
 
-**Block Elements** **<h1> , <div> , <p> , <section> , <article>**
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-css/master/10_Display/images/Display.PNG)
 
 
 **HTML**
