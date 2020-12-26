@@ -33,7 +33,7 @@ and column grid lines 1 and 3.
 
 **Grid Item**
 The children (i.e. direct descendants) of the grid container. Here the item elements
-are grid items, but sub-item isn�t.
+are grid items, but sub-item isn't.
 
 **Grid Cell**
 The space between two adjacent row and two adjacent column grid lines.
@@ -148,7 +148,7 @@ when a grid item is placed outside of the explicit grid.
 **grid-auto-rows: <track-size> ...;**<br/>
 
 - **grid-auto-flow**
-If you have grid items that you don�t explicitly place on the grid, the auto-placement
+If you have grid items that you don't explicitly place on the grid, the auto-placement
 algorithm kicks in to automatically place the items. This property controls how the
 auto-placement algorithm works.
 
