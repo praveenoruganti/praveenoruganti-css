@@ -6,7 +6,7 @@ For eg. Images in newspaper and articles are placed in certain position with res
 
 One should keep in mind that this can only be applied to float the element horizontally (i.e. right or left ) not vertically.
 
-**float: left | right | none | inherit ;**
+float: left | right | none | inherit ;
 
 - float:right;  /* Floats the element to right of it's container */
 - float:left;   /*  Floats the element to left of it's container */
