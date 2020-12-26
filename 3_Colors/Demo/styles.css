@@ -1,0 +1,24 @@
+h1 {
+  color: darkred;
+}
+
+h2 {
+  color: rgb(60, 60, 60);
+}
+
+h3 {
+  color: rgba(255, 99, 71, 0.5);
+}
+
+
+h4 {
+  color: #ff0000;
+}
+
+h5 {
+  color: hsl(147, 50%, 47%);
+}
+
+h6 {
+  color: hsla(9, 100%, 64%, 0.6);
+}
