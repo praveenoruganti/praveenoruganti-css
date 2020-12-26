@@ -7,7 +7,7 @@ CSS Clear Both property does not allow any element to wrap around any adjacent F
 
 Div tag is the preferred element to use clear both as div is block level.
 
-**clear: left | right | none | both;**
+clear: left | right | none | both;
 
 - clear: right;    /*  Clear right floating only */
 - clear: left;     /*  Clear left floating only */
