@@ -48,7 +48,7 @@ row-reverse: right to left in ltr; left to right in rtl
 column: same as row but top to bottom
 column-reverse: same as row-reverse but bottom to top
 
-- flex-wrap
+- **flex-wrap**
 By default, flex items will all try to fit onto one line. You can change that and allow
 the items to wrap as needed with this property.
 **flex-wrap: nowrap | wrap | wrap-reverse;**
@@ -69,21 +69,21 @@ of items when they overflow the line.
 
 **justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly| start | end | left | right ... + safe | unsafe;**
 
-a) **flex-start (default)**: items are packed toward the start of the flex-direction.
-b)** flex-end**: items are packed toward the end of the flex-direction.
-c) **start**: items are packed toward the start of the writing-mode direction.
-d) **end**: items are packed toward the end of the writing-mode direction.
+a) **flex-start (default)**: items are packed toward the start of the flex-direction.<br/>
+b)** flex-end**: items are packed toward the end of the flex-direction.<br/>
+c) **start**: items are packed toward the start of the writing-mode direction.<br/>
+d) **end**: items are packed toward the end of the writing-mode direction.<br/>
 e) **left**: items are packed toward left edge of the container, unless that doesn't make sense
-with the flex-direction, then it behaves like start.
+with the flex-direction, then it behaves like start.<br/>
 f) **right**: items are packed toward right edge of the container, unless that doesn't make sense
-with the flex-direction, then it behaves like start.
-g) **center**: items are centered along the line
+with the flex-direction, then it behaves like start.<br/>
+g) **center**: items are centered along the line<br/>
 h) **space-between**: items are evenly distributed in the line; first item is on the start line
-, last item on the end line
+, last item on the end line<br/>
 i) **space-around**: items are evenly distributed in the line with equal space around them.
 Note that visually the spaces aren't equal, since all the items have equal space on both sides.
-The first item will have one unit of space against the container edge, but two units
-of space between the next item because that next item has its own spacing that applies.
+The first item will have one unit of space against the container edge, but two units.
+of space between the next item because that next item has its own spacing that applies.<br/>
 j) **space-evenly**: items are distributed so that the spacing between any two items
  (and the space to the edges) is equal.
 
@@ -94,28 +94,28 @@ on the current line. Think of it as the justify-content version for the cross-ax
 
 **align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;**
 
-a) **stretch (default)**: stretch to fill the container (still respect min-width/max-width)
-b) **flex-start / start / self-start**: items are placed at the start of the cross axis. The difference between these is subtle, and is about respecting the flex-direction rules or the writing-mode rules.
-c) **flex-end / end / self-end**: items are placed at the end of the cross axis. The difference again is subtle and is about respecting flex-direction rules vs. writing-mode rules.
-d) **center**: items are centered in the cross-axis
+a) **stretch (default)**: stretch to fill the container (still respect min-width/max-width)<br/>
+b) **flex-start / start / self-start**: items are placed at the start of the cross axis. The difference between these is subtle, and is about respecting the flex-direction rules or the writing-mode rules.<br/>
+c) **flex-end / end / self-end**: items are placed at the end of the cross axis. The difference again is subtle and is about respecting flex-direction rules vs. writing-mode rules.<br/>
+d) **center**: items are centered in the cross-axis<br/>
 e)**baseline**: items are aligned such as their baselines align
 
 - **align-content**
 This aligns a flex container's lines within when there is extra space in the cross-axis,
 similar to how justify-content aligns individual items within the main-axis.
-Note: this property has no effect when there is only one line of flex items.
+**Note**: this property has no effect when there is only one line of flex items.
 
 **align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;**
 
 a) **flex-start / start**: items packed to the start of the container. The (more supported)
-flex-start honors the flex-direction while start honors the writing-mode direction.
+flex-start honors the flex-direction while start honors the writing-mode direction.<br/>
 b) **flex-end / end**: items packed to the end of the container. The (more support)
-flex-end honors the flex-direction while end honors the writing-mode direction.
-c) **center**: items centered in the container
+flex-end honors the flex-direction while end honors the writing-mode direction.<br/>
+c) **center**: items centered in the container<br/>
 d) **space-between**: items evenly distributed; the first line is at the start of the
-container while the last one is at the end
-e) **space-around**: items evenly distributed with equal space around each line
-g) **space-evenly**: items are evenly distributed with equal space around them
+container while the last one is at the end<br/>
+e) **space-around**: items evenly distributed with equal space around each line<br/>
+g) **space-evenly**: items are evenly distributed with equal space around them<br/>
 h) **stretch (default)**: lines stretch to take up the remaining space
 
 
@@ -123,6 +123,7 @@ h) **stretch (default)**: lines stretch to take up the remaining space
 - **order**
 By default, flex items are laid out in the source order. However, the order property controls
 the order in which they appear in the flex container.
+
 **order: 5; (default is 0)**
 
 - **flex-grow**

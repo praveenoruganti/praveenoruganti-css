@@ -49,6 +49,7 @@ Defines the element as a grid container and establishes a new grid formatting co
 - **grid-template-columns and grid-template-rows**
 Defines the columns and rows of the grid with a space-separated list of values.
 The values represent the track size, and the space between them represents the grid line.
+
 **grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];**
 **grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];**
 
@@ -57,6 +58,7 @@ Defines a grid template by referencing the names of the grid areas which are spe
 with the grid-area property. Repeating the name of a grid area causes the content to
 span those cells. A period signifies an empty cell. The syntax itself provides a
 visualization of the structure of the grid.
+
 **grid-template-areas**:
     **"header header header header"**
     **"main main . sidebar"**
@@ -65,7 +67,9 @@ visualization of the structure of the grid.
 - **grid-template**
 A shorthand for setting grid-template-rows, grid-template-columns, and grid-template-areas
 in a single declaration.
+
 **grid-template: none | <grid-template-rows> / <grid-template-columns>;**
+
 **grid-template:**
     **[row1-start] "header header header" 25px [row1-end]**
     **[row2-start] "footer footer footer" 25px [row2-end]**
