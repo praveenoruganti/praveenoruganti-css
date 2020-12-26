@@ -63,7 +63,7 @@ of items when they overflow the line.
 **justify-content: flex-start (or) flex-end (or) center (or) space-between (or) space-around (or) space-evenly (or) start (or) end (or) left (or) right ... + safe (or) unsafe;**
 
 a) **flex-start (default)**: items are packed toward the start of the flex-direction.<br/>
-b)** flex-end**: items are packed toward the end of the flex-direction.<br/>
+b) **flex-end**: items are packed toward the end of the flex-direction.<br/>
 c) **start**: items are packed toward the start of the writing-mode direction.<br/>
 d) **end**: items are packed toward the end of the writing-mode direction.<br/>
 e) **left**: items are packed toward left edge of the container, unless that doesn't make sense with the flex-direction, then it behaves like start.<br/>
