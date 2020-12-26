@@ -68,7 +68,7 @@ visualization of the structure of the grid.
 A shorthand for setting grid-template-rows, grid-template-columns, and grid-template-areas
 in a single declaration.
 
-**grid-template: none (or) <grid-template-rows> / <grid-template-columns>;**<br/>
+**grid-template: none (or) <grid-template-rows> (or) <grid-template-columns>;**<br/>
 
 **grid-template:**<br/>
     **[row1-start] "header header header" 25px [row1-end]**<br/>
@@ -110,8 +110,8 @@ along the inline (row) axis). This value applies to all grid items inside the co
 - **place-items**
 place-items sets both the align-items and justify-items properties in a single declaration.
 
-Values:
-**<align-items> / <justify-items>**  The first value sets align-items, the second value justify-items.
+Values:<br/>
+**<align-items> (or) <justify-items>**  The first value sets align-items, the second value justify-items.
  If the second value is omitted, the first value is assigned to both properties.
 
 - **justify-content**
@@ -135,8 +135,8 @@ This property aligns the grid along the block (column) axis
 - place-content
 place-content sets both the align-content and justify-content properties in a single declaration.
 
-Values:
-**<align-content> / <justify-content>** The first value sets align-content, the second value justify-content.
+Values:<br/>
+**<align-content> (or) <justify-content>** The first value sets align-content, the second value justify-content.
 If the second value is omitted, the first value is assigned to both properties.
 
 - **grid-auto-columns and grid-auto-rows**
@@ -180,7 +180,7 @@ Gives an item a name so that it can be referenced by a template created with the
  property. Alternatively, this property can be used as an even shorter shorthand for grid-row-start
  + grid-column-start + grid-row-end + grid-column-end.
 
- **grid-area: <name> (or) <row-start> / <column-start> / <row-end> / <column-end>;**
+ **grid-area: <name> (or) <row-start> (or) <column-start> (or) <row-end> (or) <column-end>;**
 
 - **justify-self**
 Aligns a grid item inside a cell along the inline (row) axis (as opposed to align-self

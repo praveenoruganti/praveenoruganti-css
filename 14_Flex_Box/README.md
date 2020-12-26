@@ -150,7 +150,7 @@ This is the shorthand for flex-grow, flex-shrink and flex-basis combined.
 The second and third parameters (flex-shrink and flex-basis) are optional.
 The default is 0 1 auto, but if you set it with a single number value, it's like 1 0.
 
-**flex: none (or) [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]**
+**flex: none (or) [ <'flex-grow'> <'flex-shrink'>? (or) <'flex-basis'> ]**
 
 It is recommended that you use this shorthand property rather than set the individual properties.
 The shorthand sets the other values intelligently.
