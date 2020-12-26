@@ -1,6 +1,5 @@
 ### All About CSS
 
-
 - [Referencing](https://praveenoruganti.github.io/praveenoruganti-css/1_Referencing/)
 - [Selectors](https://praveenoruganti.github.io/praveenoruganti-css/2_Selectors/)
 - [Colors](https://praveenoruganti.github.io/praveenoruganti-css/3_Colors/)

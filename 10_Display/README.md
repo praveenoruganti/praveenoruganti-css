@@ -8,9 +8,9 @@ Here with the CSS Display Properties.
 - display: inline-block
 - display: flex
 
-**inline Elements** <a>, <span>, <input> , <img>
+**inline Elements** **<a>, <span>, <input> , <img>**
 
-**Block Elements** <h1> , <div> , <p> , <section> , <article>
+**Block Elements** **<h1> , <div> , <p> , <section> , <article>**
 
 
 **HTML**
