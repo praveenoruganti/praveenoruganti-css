@@ -410,4 +410,4 @@ You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-c
 
 You can check out the [Grid Examples](https://praveenoruganti.github.io/praveenoruganti-css/15_Grid/Demo/Examples.html).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

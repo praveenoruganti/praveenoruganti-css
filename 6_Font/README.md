@@ -53,4 +53,4 @@ p.b {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/6_Font/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

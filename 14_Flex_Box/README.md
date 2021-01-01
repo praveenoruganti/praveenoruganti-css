@@ -388,4 +388,4 @@ You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-c
 
 You can check out the [Flex Box Examples](https://praveenoruganti.github.io/praveenoruganti-css/14_Flex_Box/Demo/Examples.html).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

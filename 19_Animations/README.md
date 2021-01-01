@@ -94,4 +94,4 @@ You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-c
 
 You can also check out the Moving Car [Demo](https://praveenoruganti.github.io/praveenoruganti-css/19_Animations/Demo/Moving_Car.html).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

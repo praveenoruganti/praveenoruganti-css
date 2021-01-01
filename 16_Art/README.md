@@ -6,4 +6,4 @@ You can check out the Minion [Demo](https://praveenoruganti.github.io/praveenoru
 
 
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

@@ -114,4 +114,4 @@ body {
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/4_Background/Demo).
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

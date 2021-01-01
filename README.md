@@ -20,4 +20,4 @@
 - [Transitions](https://praveenoruganti.github.io/praveenoruganti-css/18_Transitions/)
 - [Animations](https://praveenoruganti.github.io/praveenoruganti-css/19_Animations/)
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+
