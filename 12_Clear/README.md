@@ -55,4 +55,4 @@ clear: left | right | none | both;
 
 You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/12_Clear/Demo).
 
-
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
