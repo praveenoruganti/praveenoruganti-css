@@ -54,6 +54,6 @@ p.b {
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/6_Font/Demo).
 
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

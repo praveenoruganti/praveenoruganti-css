@@ -94,6 +94,6 @@ You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugan
 
 You can also check out the Moving Car [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/Demo/Moving_Car.html).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

@@ -72,5 +72,5 @@ h1 {
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/7_Text/Demo).
 
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 

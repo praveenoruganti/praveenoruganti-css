@@ -90,6 +90,6 @@ body {
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/9_z-index/Demo).
 
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

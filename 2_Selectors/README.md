@@ -79,5 +79,5 @@ a[target="_blank"] {
 
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/2_Selectors/Demo).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 

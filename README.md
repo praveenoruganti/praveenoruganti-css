@@ -20,6 +20,6 @@
 - [Transitions](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Transitions/)
 - [Animations](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/)
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

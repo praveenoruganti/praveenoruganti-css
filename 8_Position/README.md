@@ -81,7 +81,7 @@ body {
 
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/8_Position/Demo).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 
 

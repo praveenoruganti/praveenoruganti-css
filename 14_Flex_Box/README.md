@@ -388,5 +388,5 @@ You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugan
 
 You can check out the [Flex Box Examples](https://praveenorugantitech.github.io/praveenorugantitech-css/14_Flex_Box/Demo/Examples.html).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
