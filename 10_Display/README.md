@@ -9,7 +9,7 @@ Here with the CSS Display Properties.
 - display: flex
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-css/master/10_Display/images/Display.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/10_Display/images/Display.PNG)
 
 
 **HTML**
@@ -136,7 +136,7 @@ h1 {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/10_Display/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/10_Display/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

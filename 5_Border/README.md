@@ -192,7 +192,7 @@ div {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/5_Border/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/5_Border/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

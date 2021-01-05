@@ -2,7 +2,7 @@
 
 In CSS, selectors are patterns used to select the element(s) you want to style.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-css/master/2_Selectors/images/css_selectors.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/2_Selectors/images/css_selectors.png)
 
 **HTML**
 
@@ -77,7 +77,7 @@ a[target="_blank"] {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/2_Selectors/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/2_Selectors/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

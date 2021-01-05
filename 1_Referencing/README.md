@@ -31,7 +31,7 @@ h1{
 </style>
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/1_Referencing/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/1_Referencing/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

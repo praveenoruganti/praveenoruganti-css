@@ -87,7 +87,7 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/9_z-index/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/9_z-index/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

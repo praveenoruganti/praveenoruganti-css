@@ -8,7 +8,7 @@ Flex Box is one dimensional layout i.e.. items are laid out on a single axis, ei
 
 In order to get Flex Box to work, we need to establish parent-child relationship. The parent is flex container and everything within it is the children or flex items.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-css/master/14_Flex_Box/images/Flex_Box.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/14_Flex_Box/images/Flex_Box.PNG)
 
 
 The Flex Box Layout (Flexible Box) module aims at providing a more efficient way to layout,align and distribute space among items in a container, even when their size is unknown
@@ -384,9 +384,9 @@ Note that float, clear and vertical-align have no effect on a flex item
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-css/14_Flex_Box/Demo).
+You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/14_Flex_Box/Demo).
 
-You can check out the [Flex Box Examples](https://praveenoruganti.github.io/praveenoruganti-css/14_Flex_Box/Demo/Examples.html).
+You can check out the [Flex Box Examples](https://praveenoruganti.github.io/praveenorugantitech-css/14_Flex_Box/Demo/Examples.html).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 
