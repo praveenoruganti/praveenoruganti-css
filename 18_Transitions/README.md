@@ -190,7 +190,7 @@ div {
 }
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/18_Transitions/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Transitions/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

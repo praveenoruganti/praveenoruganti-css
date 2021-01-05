@@ -136,7 +136,7 @@ h1 {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/10_Display/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/10_Display/Demo).
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

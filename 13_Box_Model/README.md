@@ -83,7 +83,7 @@ p {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/13_Box_Model/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/13_Box_Model/Demo).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

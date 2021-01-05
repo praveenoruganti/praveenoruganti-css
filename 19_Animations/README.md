@@ -90,9 +90,9 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/19_Animations/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/Demo).
 
-You can also check out the Moving Car [Demo](https://praveenoruganti.github.io/praveenorugantitech-css/19_Animations/Demo/Moving_Car.html).
+You can also check out the Moving Car [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/Demo/Moving_Car.html).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 
