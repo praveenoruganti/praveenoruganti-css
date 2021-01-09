@@ -51,7 +51,7 @@ p.b {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/6_Font/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/6_Font/Demo){:target="_blank"}.
 
 
 

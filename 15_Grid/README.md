@@ -406,8 +406,8 @@ body {
 ```
 
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/Demo){:target="_blank"}.
 
-You can check out the [Grid Examples](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/Demo/Examples.html).
+You can check out the [Grid Examples](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/Demo/Examples.html){:target="_blank"}.
 
 

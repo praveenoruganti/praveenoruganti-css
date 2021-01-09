@@ -1,23 +1,23 @@
 ### All About CSS
 
-- [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-css/0_Introduction/)
-- [Referencing](https://praveenorugantitech.github.io/praveenorugantitech-css/1_Referencing/)
-- [Selectors](https://praveenorugantitech.github.io/praveenorugantitech-css/2_Selectors/)
-- [Colors](https://praveenorugantitech.github.io/praveenorugantitech-css/3_Colors/)
-- [Background](https://praveenorugantitech.github.io/praveenorugantitech-css/4_Background/)
-- [Border](https://praveenorugantitech.github.io/praveenorugantitech-css/5_Border/)
-- [Font](https://praveenorugantitech.github.io/praveenorugantitech-css/6_Font/)
-- [Text](https://praveenorugantitech.github.io/praveenorugantitech-css/7_Text/)
-- [Position](https://praveenorugantitech.github.io/praveenorugantitech-css/8_Position/)
-- [z-index](https://praveenorugantitech.github.io/praveenorugantitech-css/9_z-index/)
-- [Display](https://praveenorugantitech.github.io/praveenorugantitech-css/10_Display/)
-- [Float](https://praveenorugantitech.github.io/praveenorugantitech-css/11_Float/)
-- [Clear](https://praveenorugantitech.github.io/praveenorugantitech-css/12_Clear/)
-- [Box Model](https://praveenorugantitech.github.io/praveenorugantitech-css/13_Box_Model/)
-- [Flex Box](https://praveenorugantitech.github.io/praveenorugantitech-css/14_Flex_Box/)
-- [Grid](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/)
-- [Art](https://praveenorugantitech.github.io/praveenorugantitech-css/16_Art/)
-- [Transforms](https://praveenorugantitech.github.io/praveenorugantitech-css/17_Transforms/)
-- [Transitions](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Transitions/)
-- [Animations](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/)
-- [Responsive Design](https://praveenorugantitech.github.io/praveenorugantitech-css/21_ResponsiveDesign/)
+- [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-css/0_Introduction/){:target="_blank"}
+- [Referencing](https://praveenorugantitech.github.io/praveenorugantitech-css/1_Referencing/){:target="_blank"}
+- [Selectors](https://praveenorugantitech.github.io/praveenorugantitech-css/2_Selectors/){:target="_blank"}
+- [Colors](https://praveenorugantitech.github.io/praveenorugantitech-css/3_Colors/){:target="_blank"}
+- [Background](https://praveenorugantitech.github.io/praveenorugantitech-css/4_Background/){:target="_blank"}
+- [Border](https://praveenorugantitech.github.io/praveenorugantitech-css/5_Border/){:target="_blank"}
+- [Font](https://praveenorugantitech.github.io/praveenorugantitech-css/6_Font/){:target="_blank"}
+- [Text](https://praveenorugantitech.github.io/praveenorugantitech-css/7_Text/){:target="_blank"}
+- [Position](https://praveenorugantitech.github.io/praveenorugantitech-css/8_Position/){:target="_blank"}
+- [z-index](https://praveenorugantitech.github.io/praveenorugantitech-css/9_z-index/){:target="_blank"}
+- [Display](https://praveenorugantitech.github.io/praveenorugantitech-css/10_Display/){:target="_blank"}
+- [Float](https://praveenorugantitech.github.io/praveenorugantitech-css/11_Float/){:target="_blank"}
+- [Clear](https://praveenorugantitech.github.io/praveenorugantitech-css/12_Clear/){:target="_blank"}
+- [Box Model](https://praveenorugantitech.github.io/praveenorugantitech-css/13_Box_Model/){:target="_blank"}
+- [Flex Box](https://praveenorugantitech.github.io/praveenorugantitech-css/14_Flex_Box/){:target="_blank"}
+- [Grid](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/){:target="_blank"}
+- [Art](https://praveenorugantitech.github.io/praveenorugantitech-css/16_Art/){:target="_blank"}
+- [Transforms](https://praveenorugantitech.github.io/praveenorugantitech-css/17_Transforms/){:target="_blank"}
+- [Transitions](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Transitions/){:target="_blank"}
+- [Animations](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/){:target="_blank"}
+- [Responsive Design](https://praveenorugantitech.github.io/praveenorugantitech-css/21_ResponsiveDesign/){:target="_blank"}

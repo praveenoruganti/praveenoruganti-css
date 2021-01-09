@@ -107,7 +107,7 @@ figure img {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/11_Float/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/11_Float/Demo){:target="_blank"}.
 
 
 

@@ -69,7 +69,7 @@ h1 {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/7_Text/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/7_Text/Demo){:target="_blank"}.
 
 
 

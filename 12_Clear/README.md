@@ -53,7 +53,7 @@ clear: left | right | none | both;
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/12_Clear/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/12_Clear/Demo){:target="_blank"}.
 
 
 

@@ -192,7 +192,7 @@ div {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/5_Border/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/5_Border/Demo){:target="_blank"}.
 
 
 

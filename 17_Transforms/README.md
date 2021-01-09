@@ -220,7 +220,7 @@ div {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/17_Transforms/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/17_Transforms/Demo){:target="_blank"}.
 
 
 

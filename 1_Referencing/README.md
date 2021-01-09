@@ -31,7 +31,7 @@ h1{
 </style>
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/1_Referencing/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/1_Referencing/Demo){:target="_blank"}.
 
 
 

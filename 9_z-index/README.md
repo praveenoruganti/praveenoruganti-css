@@ -87,7 +87,7 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/9_z-index/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/9_z-index/Demo){:target="_blank"}.
 
 
 

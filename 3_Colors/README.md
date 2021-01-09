@@ -52,7 +52,7 @@ h6 {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/3_Colors/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/3_Colors/Demo){:target="_blank"}.
 
 
 

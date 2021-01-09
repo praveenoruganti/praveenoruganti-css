@@ -79,7 +79,7 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/8_Position/Demo).
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/8_Position/Demo){:target="_blank"}.
 
 
 
