@@ -1,4 +1,4 @@
-# Praveen Oruganti Tech CSS Course
+# CSS Course
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-css/0_Introduction/){:target="_blank"}
 - [Referencing](https://praveenorugantitech.github.io/praveenorugantitech-css/1_Referencing/){:target="_blank"}
