@@ -1,7 +1,9 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 # CSS Art
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 You can check out the Astronaut [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/16_Art/Demo/Astronaut.html){:target="_blank"}.
 

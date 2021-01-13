@@ -1,7 +1,9 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 # CSS Float
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 CSS float is a property that forces any element to float (right, left, none, inherit) inside its parent body with the rest of the element to wrap around it. This property can be used to place an image or an element inside its container and other inline elements will wrap around it.
 
