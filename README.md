@@ -21,8 +21,7 @@
 - [Box Model](https://praveenorugantitech.github.io/praveenorugantitech-css/13_Box_Model/){:target="_blank"}
 - [Flex Box](https://praveenorugantitech.github.io/praveenorugantitech-css/14_Flex_Box/){:target="_blank"}
 - [Grid](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/){:target="_blank"}
-- [Art](https://praveenorugantitech.github.io/praveenorugantitech-css/16_Art/){:target="_blank"}
-- [Transforms](https://praveenorugantitech.github.io/praveenorugantitech-css/17_Transforms/){:target="_blank"}
-- [Transitions](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Transitions/){:target="_blank"}
-- [Animations](https://praveenorugantitech.github.io/praveenorugantitech-css/19_Animations/){:target="_blank"}
-- [Responsive Design](https://praveenorugantitech.github.io/praveenorugantitech-css/21_ResponsiveDesign/){:target="_blank"}
+- [Transforms](https://praveenorugantitech.github.io/praveenorugantitech-css/16_Transforms/){:target="_blank"}
+- [Transitions](https://praveenorugantitech.github.io/praveenorugantitech-css/17_Transitions/){:target="_blank"}
+- [Animations](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Animations/){:target="_blank"}
+- [Responsive Design](https://praveenorugantitech.github.io/praveenorugantitech-css/19_ResponsiveDesign/){:target="_blank"}

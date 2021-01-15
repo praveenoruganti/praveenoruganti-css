@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-186960773-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-186960773-2');
+    </script>
+
+    <title>Astronaut Art</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.ico" />
+    <link rel="stylesheet" href="style.css"/>
+    <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+        data-id="praveenoruganti" data-description="Support me on Buy me a coffee!"
+        data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#5F7FFF" data-position="Right"
+        data-x_margin="18" data-y_margin="18"></script>
+    <title>Astronaut Art</title>
+
+</head>
+
+
+<body>
+    <div class="container">
+        <div class="astronaut">
+            <div class="box"></div>
+            <div class="head"></div>
+            <div class="suit-torso">
+                <div class="left-arm">
+                    <div class="la1"></div>
+                    <div class="la2"></div>
+                    <div class="la3"></div>
+                    <div class="la4">
+                        <div class="left-palm">
+                            <div class="f1"></div>
+                            <div class="f2"></div>
+                            <div class="f3"></div>
+                            <div class="f4"></div>
+                            <div class="thumb"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right-arm">
+                    <div class="la1"></div>
+                    <div class="la2"></div>
+                    <div class="la3"></div>
+                    <div class="la4">
+                        <div class="left-palm">
+                            <div class="f1"></div>
+                            <div class="f2"></div>
+                            <div class="f3"></div>
+                            <div class="f4"></div>
+                            <div class="thumb"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="belt-left"></div>
+                <div class="belt-right"></div>
+            </div>
+            <div class="body-join">
+                <div class="left-leg">
+                    <div class="ll1"></div>
+                    <div class="ll2"></div>
+                    <div class="ll3"></div>
+                    <div class="ll4"></div>
+                    <div class="ll5"></div>
+                </div>
+
+                <div class="right-leg">
+                    <div class="ll1"></div>
+                    <div class="ll2"></div>
+                    <div class="ll3"></div>
+                    <div class="ll4"></div>
+                    <div class="ll5"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="twinkling"></div>
+    </div>
+    <script language="JavaScript" type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.1/gsap.min.js"></script>
+    <script language="JavaScript" type="text/javascript">
+        let t1 = gsap.timeline();
+        t1.to(".astronaut",
+            {
+                duration: 3,
+                x: 20,
+                y: 10,
+                stagger: {
+                    repeat: -1,
+                    yoyo: true
+                }
+            });
+    </script>
+
+
+</body>
+
+</html>

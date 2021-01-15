@@ -1,0 +1,108 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  line-height: 70px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0 80px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+nav .navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .navbar h3 {
+  font-size: 1.7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-style: italic;
+  color: white;
+}
+
+nav .navbar .nav-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  width: 30%;
+}
+
+nav .navbar .nav-items li {
+  list-style-type: none;
+}
+
+nav .navbar .nav-items li a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: white;
+  transition: all 0.3sec;
+}
+
+nav .navbar .nav-items li a:hover {
+  color: #1abc9c;
+}
+
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -2;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.container {
+  margin: 200px 80px 0 80px;
+}
+
+.container h2 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  word-spacing: 7px;
+}
+
+.container p {
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 400;
+  width: 50%;
+  padding-bottom: 25px;
+}
+
+.container a {
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 600;
+  background: white;
+  padding: 10px 22px;
+  text-decoration: none;
+  transition: all 0.3sec;
+}
+
+.container a:hover {
+  color: white;
+  background: #1abc9c;
+}
