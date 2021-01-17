@@ -3,7 +3,7 @@
 
 # CSS Course
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-css/0_Introduction/){:target="_blank"}
 - [Referencing](https://praveenorugantitech.github.io/praveenorugantitech-css/1_Referencing/){:target="_blank"}

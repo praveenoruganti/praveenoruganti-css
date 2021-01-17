@@ -3,7 +3,7 @@
 
 # CSS Grid Layout
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 It is a 2-dimensional system, meaning it can handle both columns and rows, unlike Flex Box
 which is largely a 1-dimensional system.

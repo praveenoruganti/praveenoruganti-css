@@ -3,7 +3,7 @@
 
 # CSS Transitions
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
  CSS transitions allows you to change property values smoothly, over a given duration.
 - transition

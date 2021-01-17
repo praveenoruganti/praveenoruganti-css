@@ -3,7 +3,7 @@
 
 # CSS z-index
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 The z-index property specifies the stack order of an element.
 

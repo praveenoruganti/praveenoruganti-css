@@ -3,7 +3,7 @@
 
 # Responsive Design
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 The term responsive design [was coined by Ethan Marcotte](https://alistapart.com/article/responsive-web-design/) in 2010 to describe the use of three techniques in combination.
 

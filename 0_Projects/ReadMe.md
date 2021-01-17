@@ -1,6 +1,6 @@
 # HTML5 and CSS Projects
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 - **Text Card** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/0_Projects/praveenorugantitech-text-card){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-css/tree/master/0_Projects/praveenorugantitech-text-card){:target="_blank"}
 
