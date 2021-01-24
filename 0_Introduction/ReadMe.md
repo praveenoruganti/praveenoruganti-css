@@ -22,7 +22,7 @@ CSS is used to define styles for your web pages, including the design, layout, a
 
 A CSS rule-set consists of a selector and a declaration block:
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/0_Introduction/images/screenshot.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/0_Introduction/images/screenshot.PNG)
 
 
 - The selector points to the HTML element you want to style.

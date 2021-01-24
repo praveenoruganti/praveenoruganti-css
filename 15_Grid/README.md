@@ -8,7 +8,7 @@
 It is a 2-dimensional system, meaning it can handle both columns and rows, unlike Flex Box
 which is largely a 1-dimensional system.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/15_Grid/images/flexvsgrid.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/15_Grid/images/flexvsgrid.PNG)
 
 We will work with Grid Layout by applying CSS rules both to a parent element
 (which becomes the Grid Container) and to that element's children (which become Grid Items).
@@ -19,7 +19,7 @@ In this example container is the grid container.
 
 Grid containers consist of grid items, placed inside columns and rows.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/15_Grid/images/grid.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/15_Grid/images/grid.PNG)
 
 **Grid Line**
 The dividing lines that make up the structure of the grid. They can be either vertical
@@ -411,8 +411,8 @@ body {
 ```
 
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/15_Grid/Demo){:target="_blank"}.
 
-You can check out the [Grid Examples](https://praveenorugantitech.github.io/praveenorugantitech-css/15_Grid/Demo/Examples.html){:target="_blank"}.
+You can check out the [Grid Examples](https://praveenorugantitech.github.io/praveenorugantitech-css-course/15_Grid/Demo/Examples.html){:target="_blank"}.
 
 

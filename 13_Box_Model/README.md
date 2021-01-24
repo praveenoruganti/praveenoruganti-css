@@ -19,7 +19,7 @@ The size of the box itself is calculated like this:
 Width	= width + padding-left + padding-right + border-left + border-right
 Height = height + padding-top + padding-bottom + border-top + border-bottom
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/13_Box_Model/images/CSS_Box_Model.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/13_Box_Model/images/CSS_Box_Model.jpg)
 
 **Margin:**
 The margin property allows us to set the amount of space that surrounds an element.
@@ -88,7 +88,7 @@ p {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/13_Box_Model/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/13_Box_Model/Demo){:target="_blank"}.
 
 
 

@@ -195,7 +195,7 @@ div {
 }
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/18_Transitions/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/18_Transitions/Demo){:target="_blank"}.
 
 
 

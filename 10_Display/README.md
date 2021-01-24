@@ -14,7 +14,7 @@ Here with the CSS Display Properties.
 - display: flex
 
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css/master/10_Display/images/Display.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/10_Display/images/Display.PNG)
 
 
 **HTML**
@@ -141,7 +141,7 @@ h1 {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css/10_Display/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/10_Display/Demo){:target="_blank"}.
 
 
 
