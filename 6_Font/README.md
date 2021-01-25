@@ -40,7 +40,7 @@ Here with the CSS Font properties.
 
 **CSS**
 
-```CSS
+```css
 p {
   font-style: italic;
   font-variant: small-caps;

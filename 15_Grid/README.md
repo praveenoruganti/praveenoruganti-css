@@ -302,7 +302,7 @@ place-self sets both the align-self and justify-self properties in a single decl
 
 **CSS**
 
-```CSS
+```css
 body {
   padding: 10px;
   font-weight: bold;

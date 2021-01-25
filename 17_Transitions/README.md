@@ -76,7 +76,7 @@ The transition-delay property specifies a delay (in seconds) for the transition 
 
 **CSS**
 
-```CSS
+```css
 * {
     margin: 0;
     padding: 0;

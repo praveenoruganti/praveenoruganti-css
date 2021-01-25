@@ -28,7 +28,7 @@ In CSS, selectors are patterns used to select the element(s) you want to style.
 ```
 **CSS**
 
-```CSS
+```css
 /* Universal selector */
 * {
   background-color: limegreen;

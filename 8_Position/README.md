@@ -30,7 +30,7 @@ Supporting properties for CSS Position are top,right,bottom,left.
 
 **CSS**
 
-```CSS
+```css
 
 body {
   height: 5000px;

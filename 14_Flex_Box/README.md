@@ -289,7 +289,7 @@ Note that float, clear and vertical-align have no effect on a flex item
 
 **CSS**
 
-```CSS
+```css
 .flexContainer1 {
   display: flex;
   flex-direction: row;

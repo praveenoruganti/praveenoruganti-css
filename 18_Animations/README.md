@@ -39,7 +39,7 @@ To get an animation to work, you must bind the animation to an element.
 
 **CSS**
 
-```CSS
+```css
 * {
   margin: 0;
   padding: 0;

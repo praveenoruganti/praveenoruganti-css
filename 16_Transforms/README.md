@@ -163,7 +163,7 @@ The rotateZ() method rotates an element around its Z-axis at a given degree
 
 **CSS**
 
-```CSS
+```css
 * {
     margin: 0;
     padding: 0;

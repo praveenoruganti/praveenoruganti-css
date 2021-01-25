@@ -47,7 +47,7 @@ float: left | right | none | inherit ;
 
 **CSS**
 
-```CSS
+```css
 .left {
   float: left;
   margin-right: 1em;

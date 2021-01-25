@@ -16,7 +16,7 @@ There are 3 types of CSS Referencing.
 ```
 **CSS**
 
-```CSS
+```css
 h1{
     color:red;
 }

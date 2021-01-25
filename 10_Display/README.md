@@ -85,7 +85,7 @@ Here with the CSS Display Properties.
 
 **CSS**
 
-```CSS
+```css
 
 body {
   font-family: "Courier New", Courier, monospace;

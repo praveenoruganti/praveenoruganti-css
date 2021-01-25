@@ -32,7 +32,7 @@ clear: left | right | none | both;
 
 **CSS**
 
-```CSS
+```css
 * {
   margin: 0;
 }

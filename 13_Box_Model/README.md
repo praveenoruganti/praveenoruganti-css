@@ -69,7 +69,7 @@ added to calculate the full size of the element.
 
 **CSS**
 
-```CSS
+```css
 
 * {
   margin: 0;

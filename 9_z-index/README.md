@@ -27,7 +27,7 @@ An element with greater stack order is always in front of an element with a lowe
 
 **CSS**
 
-```CSS
+```css
 
 body {
   font-family: "Courier New", Courier, monospace;

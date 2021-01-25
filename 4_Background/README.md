@@ -54,7 +54,7 @@ Here with the CSS background properties.
 
 ```
 
-```CSS
+```css
 h1 {
   opacity: 0.2;
 }

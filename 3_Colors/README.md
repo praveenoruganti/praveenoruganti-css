@@ -19,7 +19,7 @@ All modern browsers support the following 140 color names.
 ```
 **CSS**
 
-```CSS
+```css
 
 /* HTML supports 140 standard color names */
 h1 {

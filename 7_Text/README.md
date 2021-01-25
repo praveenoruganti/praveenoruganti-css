@@ -50,7 +50,7 @@ color, alignment, spacing, decoration, transformation, etc.
 
 **CSS**
 
-```CSS
+```css
 
 p {
   color: darkred;

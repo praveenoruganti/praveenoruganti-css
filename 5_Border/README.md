@@ -83,7 +83,7 @@ If border-color is omitted, the color applied will be the color of the text.
 
 **CSS**
 
-```CSS
+```css
 
 body {
   font-family: "Courier New", Courier, monospace;

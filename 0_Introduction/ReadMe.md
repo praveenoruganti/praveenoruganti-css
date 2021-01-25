@@ -31,7 +31,7 @@ A CSS rule-set consists of a selector and a declaration block:
 - Multiple CSS declarations are separated by semicolons. 
 - Declaration blocks are surrounded by curly braces.
 - In this example, all p tag elements will be center-aligned, with a red text color:
-```CSS
+```css
     p {
     color: red;
     text-align: center;
