@@ -54,7 +54,7 @@ added to calculate the full size of the element.
 
 **HTML**
 
-```HTML
+```html
 
 <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

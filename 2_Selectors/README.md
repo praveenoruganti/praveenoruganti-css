@@ -12,7 +12,7 @@ In CSS, selectors are patterns used to select the element(s) you want to style.
 
 **HTML**
 
-```HTML
+```html
 <h1>First Heading</h1>
 <h2 id="h2">Second Heading</h2>
 <h3 class="h3">Third Heading</h3>

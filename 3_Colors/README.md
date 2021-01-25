@@ -9,7 +9,7 @@ All modern browsers support the following 140 color names.
 
 **HTML**
 
-```HTML
+```html
 <h1>First Heading</h1>
 <h2>Second Heading</h2>
 <h3>Third Heading</h3>

@@ -207,7 +207,7 @@ place-self sets both the align-self and justify-self properties in a single decl
 
 **HTML**
 
-```HTML
+```html
 <h2>CSS Grid using display grid property</h2>
     <div class="grid-container1">
         <div class="grid-item grid-item-1">Grid Item 1</div>

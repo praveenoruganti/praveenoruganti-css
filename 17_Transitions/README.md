@@ -31,7 +31,7 @@ The transition-delay property specifies a delay (in seconds) for the transition 
 
 **HTML**
 
-```HTML
+```html
 <h1>The transition Property</h1>
 <p>Hover over the div element below, to see the transition effect.</p>
 <h1>The transition effect will start when the specified CSS property (width) changes value.</h1>

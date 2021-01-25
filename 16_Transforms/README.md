@@ -53,7 +53,7 @@ The rotateZ() method rotates an element around its Z-axis at a given degree
 
 **HTML**
 
-```HTML
+```html
 <h1>The translate() Method</h1>
 <p>The translate() method moves an element from its current position.</p>
 <div class="translate">

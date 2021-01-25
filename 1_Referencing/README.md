@@ -11,7 +11,7 @@ There are 3 types of CSS Referencing.
 
 **HTML**
 
-```HTML
+```html
 <link rel="stylesheet" href="styles.css" />
 ```
 **CSS**
@@ -23,12 +23,12 @@ h1{
 ```
 - Inline CSS and it has highest priority and will override external and internal styles and browser defaults
 
-```HTML
+```html
 <h2 style="color:green">Second Heading</h2>
 ```
 - Internal CSS  is better than inline CSS but its not a best practice to use.
 
-```HTML
+```html
 <style>
     h3 {
         color: blue;

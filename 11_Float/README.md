@@ -21,7 +21,7 @@ float: left | right | none | inherit ;
 
 **HTML**
 
-```HTML
+```html
 <article>
     <h1>Images Floating in the Document Flow</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sequi veniam ea

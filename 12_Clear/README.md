@@ -21,7 +21,7 @@ clear: left | right | none | both;
 
 **HTML**
 
-```HTML
+```html
 <div class="wrap">
     <div class="aside4">Aside 4</div>
     <div class="section4">Section 4</div>

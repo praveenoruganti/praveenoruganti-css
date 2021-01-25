@@ -18,7 +18,7 @@ Here with the CSS background properties.
 
 **HTML**
 
-```HTML
+```html
 <h2>Background Color</h2>
 <div class="bg-color">
     <h1> I am with Teal Color Background</h1>

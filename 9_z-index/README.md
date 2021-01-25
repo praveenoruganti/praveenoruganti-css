@@ -14,7 +14,7 @@ An element with greater stack order is always in front of an element with a lowe
 
 **HTML**
 
-```HTML
+```html
 <div class="main">
     <div class="common one">One</div>
     <div class="common two">Two</div>

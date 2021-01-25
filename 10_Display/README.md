@@ -19,7 +19,7 @@ Here with the CSS Display Properties.
 
 **HTML**
 
-```HTML
+```html
 <!-- inline -->
 <div>
     <h2>Good Morning</h2>

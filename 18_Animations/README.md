@@ -32,7 +32,7 @@ To get an animation to work, you must bind the animation to an element.
 
 **HTML**
 
-```HTML
+```html
  <h1>CSS Animations</h1>
  <div class="animations"></div>
 ```

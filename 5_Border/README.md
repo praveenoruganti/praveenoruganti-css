@@ -22,7 +22,7 @@ If border-color is omitted, the color applied will be the color of the text.
 
 **HTML**
 
-```HTML
+```html
 <h2> Border All Sides with solid style</h2>
 <div class="border-all-solid">
     <h2>Border All Sides</h2>

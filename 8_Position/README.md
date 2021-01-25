@@ -17,7 +17,7 @@ Supporting properties for CSS Position are top,right,bottom,left.
 
 **HTML**
 
-```HTML
+```html
 <div class="box box1"></div>
 <div class="container">
     <div class="box box2"></div>

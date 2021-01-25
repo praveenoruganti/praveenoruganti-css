@@ -25,7 +25,7 @@ color, alignment, spacing, decoration, transformation, etc.
 
 **HTML**
 
-```HTML
+```html
 
 <h1>Sample Text</h1>
 <p>

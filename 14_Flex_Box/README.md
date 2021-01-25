@@ -168,7 +168,7 @@ for individual flex items.
 Note that float, clear and vertical-align have no effect on a flex item
 
 **HTML**
-```HTML
+```html
 <h2>Flex Box with flex direction : row</h2>
 <div class="flexContainer1">
     <div class="flexItem">1</div>
