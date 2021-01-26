@@ -95,10 +95,7 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/19_Animations/Demo){:target="_blank"}.
-
-You can also check out the Moving Car [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/19_Animations/Demo/Moving_Car.html){:target="_blank"}.
-
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/18_Animations/Demo){:target="_blank"}.
 
 
 

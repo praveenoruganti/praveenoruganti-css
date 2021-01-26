@@ -45,9 +45,9 @@ Media queries can help with that. We can add a breakpoint where certain parts of
 
 **Desktop**
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/21_ResponsiveDesign/images/Desktop.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/19_ResponsiveDesign/images/Desktop.png)
 
 **Phone**
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/21_ResponsiveDesign/images/Phone.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-css-course/master/19_ResponsiveDesign/images/Phone.png)
 

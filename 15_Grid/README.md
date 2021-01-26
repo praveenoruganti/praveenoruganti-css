@@ -1,9 +1,4 @@
-
-
-
 # CSS Grid Layout
-
-
 
 It is a 2-dimensional system, meaning it can handle both columns and rows, unlike Flex Box
 which is largely a 1-dimensional system.
@@ -412,7 +407,5 @@ body {
 
 
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/15_Grid/Demo){:target="_blank"}.
-
-You can check out the [Grid Examples](https://praveenorugantitech.github.io/praveenorugantitech-css-course/15_Grid/Demo/Examples.html){:target="_blank"}.
 
 

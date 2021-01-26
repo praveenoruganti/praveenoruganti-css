@@ -391,7 +391,5 @@ Note that float, clear and vertical-align have no effect on a flex item
 
 You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/14_Flex_Box/Demo){:target="_blank"}.
 
-You can check out the [Flex Box Examples](https://praveenorugantitech.github.io/praveenorugantitech-css-course/14_Flex_Box/Demo/Examples.html){:target="_blank"}.
-
 
 
