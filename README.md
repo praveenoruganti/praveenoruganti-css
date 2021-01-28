@@ -20,3 +20,6 @@
 - [Transitions](https://praveenorugantitech.github.io/praveenorugantitech-css-course/17_Transitions/){:target="_blank"}
 - [Animations](https://praveenorugantitech.github.io/praveenorugantitech-css-course/18_Animations/){:target="_blank"}
 - [Responsive Design](https://praveenorugantitech.github.io/praveenorugantitech-css-course/19_ResponsiveDesign/){:target="_blank"}
+
+
+**Note**: I will make sure to keep this updated.
