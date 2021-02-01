@@ -88,7 +88,7 @@ p {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/13_Box_Model/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/13_Box_Model/Demo){:target="_blank"}
 
 
 

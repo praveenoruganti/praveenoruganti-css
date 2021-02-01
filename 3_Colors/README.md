@@ -57,7 +57,7 @@ h6 {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/3_Colors/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/3_Colors/Demo){:target="_blank"}
 
 
 

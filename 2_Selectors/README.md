@@ -83,7 +83,7 @@ a[target="_blank"] {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/2_Selectors/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/2_Selectors/Demo){:target="_blank"}
 
 
 

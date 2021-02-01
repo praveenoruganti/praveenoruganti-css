@@ -112,7 +112,7 @@ figure img {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/11_Float/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/11_Float/Demo){:target="_blank"}
 
 
 

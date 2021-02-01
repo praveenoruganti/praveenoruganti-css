@@ -84,7 +84,7 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/8_Position/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/8_Position/Demo){:target="_blank"}
 
 
 

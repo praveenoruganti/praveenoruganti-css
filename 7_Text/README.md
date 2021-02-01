@@ -74,7 +74,7 @@ h1 {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/7_Text/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/7_Text/Demo){:target="_blank"}
 
 
 

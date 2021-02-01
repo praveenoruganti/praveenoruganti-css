@@ -117,7 +117,7 @@ body {
 
 ```
 
-You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/4_Background/Demo){:target="_blank"}.
+You can check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-css-course/4_Background/Demo){:target="_blank"}
 
 
 
